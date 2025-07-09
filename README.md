@@ -5,12 +5,12 @@ Name: Alexandra Nichole E. Palma<br>
 Project Title: MyBank Application with Unit Testing<br>
 Screenshots:<br>
 <br>
-<h3>Unit testing screenshot:</h3><br>
+Unit testing screenshot:<br>
 ![1.png](src/screenshots/1.png)
 ![Screenshot 2025-07-09 at 5.40.22 PM.png](src/screenshots/Screenshot%202025-07-09%20at%205.40.22%E2%80%AFPM.png)
 <br>
 <br>
-<h3>Implementation screenshots:</h3><br>
+Implementation screenshots:<br>
 ![2.png](src/screenshots/2.png)
 ![3.png](src/screenshots/3.png)
 ![4.png](src/screenshots/4.png)
