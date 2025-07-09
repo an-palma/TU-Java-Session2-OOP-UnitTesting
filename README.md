@@ -6,14 +6,14 @@ Project Title: MyBank Application with Unit Testing<br>
 Screenshots:<br>
 <br>
 <h3>Unit testing screenshot:</h3><br>
-![Screenshot 2025-07-09 at 4.47.24 PM.png](src/screenshots/Screenshot%202025-07-09%20at%204.47.24%E2%80%AFPM.png)
+![1.png](src/screenshots/1.png)
 <br>
 <br>
 <h3>Implementation screenshots:</h3><br>
-![Screenshot 2025-07-09 at 5.04.25 PM.png](src/screenshots/Screenshot%202025-07-09%20at%205.04.25%E2%80%AFPM.png)
-![Screenshot 2025-07-09 at 5.04.35 PM.png](src/screenshots/Screenshot%202025-07-09%20at%205.04.35%E2%80%AFPM.png)
-![Screenshot 2025-07-09 at 5.04.43 PM.png](src/screenshots/Screenshot%202025-07-09%20at%205.04.43%E2%80%AFPM.png)
-![Screenshot 2025-07-09 at 5.04.58 PM.png](src/screenshots/Screenshot%202025-07-09%20at%205.04.58%E2%80%AFPM.png)
-![Screenshot 2025-07-09 at 5.05.12 PM.png](src/screenshots/Screenshot%202025-07-09%20at%205.05.12%E2%80%AFPM.png)
-![Screenshot 2025-07-09 at 5.05.36 PM.png](src/screenshots/Screenshot%202025-07-09%20at%205.05.36%E2%80%AFPM.png)
-![Screenshot 2025-07-09 at 5.05.51 PM.png](src/screenshots/Screenshot%202025-07-09%20at%205.05.51%E2%80%AFPM.png)
+![2.png](src/screenshots/2.png)
+![3.png](src/screenshots/3.png)
+![4.png](src/screenshots/4.png)
+![5.png](src/screenshots/5.png)
+![6.png](src/screenshots/6.png)
+![7.png](src/screenshots/7.png)
+![8.png](src/screenshots/8.png)
